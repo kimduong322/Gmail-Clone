@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<emails>
+    <email>
+        <sender>john.doe@gmail.com</sender>
+        <title>Phỏng vấn công việc</title>
+        <content>Chào bạn,
+            Tôi rất vui được thông báo rằng bạn đã được chọn để tham gia buổi phỏng vấn công việc tại công ty chúng tôi vào ngày mai. Chúng ta sẽ bắt đầu lúc 10 giờ sáng tại địa chỉ sau đây: 123 Main Street, Thành phố ABC. Hãy mang theo bản sao giấy tờ tùy thân và sẵn sàng trả lời một số câu hỏi về kỹ năng và kinh nghiệm của bạn.
+            Chúng tôi rất mong đợi cuộc gặp gỡ với bạn.
+        </content>
+        <timestamp>1677552000</timestamp>
+    </email>
+    <email>
+        <sender>tech.news@example.com</sender>
+        <title>Tin tức công nghệ mới nhất</title>
+        <content>Chào bạn,
+            Dưới đây là những tin tức công nghệ mới nhất:
+            1. Smartphone mới ra mắt với camera ấn tượng.
+            2. Công nghệ trí tuệ nhân tạo tiến bộ trong lĩnh vực y tế.
+            3. Facebook công bố dự án mới về thực tế ảo.
+            Hãy đọc bài viết đính kèm để biết thêm chi tiết.
+        </content>
+        <timestamp>1677638400</timestamp>
+    </email>
+    <email>
+        <sender>alice.smith@gmail.com</sender>
+        <title>Dự án blockchain mới</title>
+        <content>Chào bạn,
+            Tôi muốn thông báo về dự án blockchain mới mà chúng tôi đang phát triển. Chúng tôi tin rằng nó sẽ thay đổi cách chúng ta tương tác với thị trường tài chính. Dự án này đang tìm kiếm các nhà phát triển và chuyên gia blockchain để tham gia. Nếu bạn quan tâm và muốn biết thêm chi tiết, xin hãy liên hệ với tôi.
+        </content>
+        <timestamp>1677724800</timestamp>
+    </email>
+    <email>
+        <sender>job.application@example.com</sender>
+        <title>Xin việc tại công ty ABC</title>
+        <content>Chào phòng nhân sự,
+            Tôi gửi đơn xin việc tại công ty ABC theo yêu cầu của thông báo tuyển dụng. Tôi đã gửi hồ sơ và thông tin cá nhân chi tiết qua đính kèm. Rất mong được cơ hội phỏng vấn và làm việc tại công ty của bạn.
+        </content>
+        <timestamp>1677811200</timestamp>
+    </email>
+    <email>
+        <sender>blockchain.event@example.com</sender>
+        <title>Sự kiện Blockchain 2023</title>
+        <content>Chào bạn,
+            Chúng tôi vô cùng phấn khích thông báo về Sự kiện Blockchain 2023 sắp tới. Đây là cơ hội tuyệt vời để cập nhật kiến thức về blockchain và gặp gỡ các chuyên gia hàng đầu trong lĩnh vực này. Hãy đăng ký và tham gia để tham dự sự kiện này.
+        </content>
+        <timestamp>1677897600</timestamp>
+    </email>
+    <email>
+        <sender>contact@cryptoexchange.com</sender>
+        <title>Thông báo giao dịch tiền điện tử</title>
+        <content>Chào bạn,
+            Chúng tôi xác nhận giao dịch mua 100 đơn vị Bitcoin tại sàn giao dịch của chúng tôi. Xin vui lòng kiểm tra tài khoản của bạn để xem chi tiết giao dịch. Nếu bạn có bất kỳ câu hỏi nào, xin hãy liên hệ với chúng tôi.
+        </content>
+        <timestamp>1677984000</timestamp>
+    </email>
+    <email>
+        <sender>event@techconference.com</sender>
+        <title>Thông tin về Hội nghị Công nghệ 2023</title>
+        <content>Chào bạn,
+            Hội nghị Công nghệ 2023 đang đến gần và chúng tôi có một số cập nhật quan trọng:
+            1. Thời gian và địa điểm: Ngày 15 tháng 11 tại Trung tâm Hội nghị XYZ.
+            2. Danh sách các diễn giả hàng đầu.
+            3. Các phiên thảo luận và chủ đề quan trọng. Hãy đăng ký tham gia để không bỏ lỡ cơ hội này.
+        </content>
+        <timestamp>1678070400</timestamp>
+    </email>
+    <email>
+        <sender>user1@gmail.com</sender>
+        <title>Bản tin hàng tuần</title>
+        <content>Chào bạn,
+            Dưới đây là bản tin hàng tuần với những tin tức và sự kiện quan trọng trong tuần này:
+            1. Cập nhật về blockchain và tiền điện tử.
+            2. Hướng dẫn cách tạo ứng dụng di động bằng Kotlin.
+            3. Thông tin về việc làm trong lĩnh vực công nghệ.
+        </content>
+        <timestamp>1678156800</timestamp>
+    </email>
+    <email>
+        <sender>job.interview@example.com</sender>
+        <title>Chúc mừng, bạn đã được chọn cho vị trí kỹ sư phần mềm</title>
+        <content>Chào bạn,
+            Tôi xin chúc mừng bạn đã được chọn cho vị trí kỹ sư phần mềm tại công ty chúng tôi sau buổi phỏng vấn gần đây. Chúng ta rất mong được làm việc cùng bạn và chúng tôi sẽ liên hệ với bạn để thảo luận về chi tiết hợp đồng và lịch làm việc.
+        </content>
+        <timestamp>1678243200</timestamp>
+    </email>
+</emails>
